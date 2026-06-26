@@ -7,7 +7,7 @@ Fireraven helps teams ship AI systems with the controls their business, security
 <p>
   <img src="assets/fireguard-icon.svg" alt="FireGuard" width="56" height="56" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/redraven-logo.svg" alt="RedRaven" height="48" />
+  <img src="assets/redraven-logo.svg" alt="RedRaven" width="88" />
 </p>
 
 <p>
@@ -47,7 +47,7 @@ Fireraven helps teams ship AI systems with the controls their business, security
       </p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="assets/redraven-logo.svg" alt="RedRaven" height="36" /></p>
+      <p><img src="assets/redraven-logo.svg" alt="RedRaven" width="70" /></p>
       <h3>RedRaven</h3>
       <p>Red-team evaluation for AI systems before and after launch. RedRaven runs evaluations, scores model behavior, exports results, generates reports, and converts findings into stronger runtime controls.</p>
       <p>
