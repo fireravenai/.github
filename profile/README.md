@@ -5,12 +5,16 @@
 Fireraven helps teams ship AI systems with the controls their business, security, and audit teams expect. We bring together runtime guardrails, red-team evaluation, policy enforcement, monitoring, and integrations for the AI agents already moving into enterprise workflows.
 
 <p>
-  <a href="https://fireraven.ai">Website</a> |
-  <a href="https://www.fireraven.ai/fireguard">FireGuard</a> |
-  <a href="https://www.fireraven.ai/redraven">RedRaven</a> |
-  <a href="https://app.fireraven.ai">FireGuard App</a> |
-  <a href="https://app.redraven.fireraven.ai">RedRaven App</a> |
-  <a href="https://doc.fireraven.ai">Docs</a>
+  <img src="assets/fireguard-icon.svg" alt="FireGuard" width="56" height="56" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/redraven-logo.svg" alt="RedRaven" height="48" />
+</p>
+
+<p>
+  <a href="https://fireraven.ai"><img alt="Website" src="https://img.shields.io/badge/Website-fireraven.ai-111827?style=for-the-badge" /></a>
+  <a href="https://doc.fireraven.ai"><img alt="Docs" src="https://img.shields.io/badge/Docs-doc.fireraven.ai-374151?style=for-the-badge" /></a>
+  <a href="https://app.fireraven.ai"><img alt="FireGuard App" src="https://img.shields.io/badge/FireGuard_App-app.fireraven.ai-1599CE?style=for-the-badge" /></a>
+  <a href="https://app.redraven.fireraven.ai"><img alt="RedRaven App" src="https://img.shields.io/badge/RedRaven_App-app.redraven.fireraven.ai-C5291F?style=for-the-badge" /></a>
 </p>
 
 <br />
@@ -30,9 +34,30 @@ Fireraven helps teams ship AI systems with the controls their business, security
 
 ## What We Build
 
-**FireGuard** is a low-code guardrail and monitoring layer for AI agents. It acts like a firewall around model calls and agent actions, checking inputs, outputs, commands, MCP calls, tool use, file reads, and file writes for risks like prompt injection, jailbreaks, data exfiltration, secrets, and sensitive data exposure.
-
-**RedRaven** helps teams red-team AI systems before and after launch. Run evaluations, score model behavior, export results, generate reports, and convert findings into stronger runtime controls.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="assets/fireguard-icon.svg" alt="FireGuard" width="44" height="44" /></p>
+      <h3>FireGuard</h3>
+      <p>Low-code guardrails and monitoring for AI agents. FireGuard acts like a firewall around model calls and agent actions, checking inputs, outputs, commands, MCP calls, tool use, file reads, and file writes for risks like prompt injection, jailbreaks, data exfiltration, secrets, and sensitive data exposure.</p>
+      <p>
+        <a href="https://www.fireraven.ai/fireguard">Product</a> ·
+        <a href="https://app.fireraven.ai">App</a> ·
+        <a href="https://doc.fireraven.ai/docs/fireguard/quickstart">Docs</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="assets/redraven-logo.svg" alt="RedRaven" height="36" /></p>
+      <h3>RedRaven</h3>
+      <p>Red-team evaluation for AI systems before and after launch. RedRaven runs evaluations, scores model behavior, exports results, generates reports, and converts findings into stronger runtime controls.</p>
+      <p>
+        <a href="https://www.fireraven.ai/redraven">Product</a> ·
+        <a href="https://app.redraven.fireraven.ai">App</a> ·
+        <a href="https://doc.fireraven.ai/docs/redraven/quickstart">Docs</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 Together, FireGuard and RedRaven help regulated teams move from testing to protection: discover weaknesses, enforce the right policies, and monitor production AI as threats and requirements evolve.
 
