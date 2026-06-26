@@ -5,9 +5,9 @@
 Fireraven helps teams ship AI systems with the controls their business, security, and audit teams expect. We bring together runtime guardrails, red-team evaluation, policy enforcement, monitoring, and integrations for the AI agents already moving into enterprise workflows.
 
 <p>
-  <img src="assets/fireguard-icon.svg" alt="FireGuard" width="56" height="56" />
+  <img src="assets/fireguard-icon.svg" alt="FireGuard" width="64" height="64" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/redraven-logo.svg" alt="RedRaven" width="88" />
+  <img src="assets/redraven-logo.svg" alt="RedRaven" width="64" />
 </p>
 
 <p>
@@ -37,8 +37,12 @@ Fireraven helps teams ship AI systems with the controls their business, security
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="assets/fireguard-icon.svg" alt="FireGuard" width="44" height="44" /></p>
-      <h3>FireGuard</h3>
+      <table width="100%">
+        <tr>
+          <td><h3>FireGuard</h3></td>
+          <td align="right"><img src="assets/fireguard-icon.svg" alt="FireGuard" width="64" height="64" /></td>
+        </tr>
+      </table>
       <p>Low-code guardrails and monitoring for AI agents. FireGuard acts like a firewall around model calls and agent actions, checking inputs, outputs, commands, MCP calls, tool use, file reads, and file writes for risks like prompt injection, jailbreaks, data exfiltration, secrets, and sensitive data exposure.</p>
       <p>
         <a href="https://www.fireraven.ai/fireguard">Product</a> ·
@@ -47,8 +51,12 @@ Fireraven helps teams ship AI systems with the controls their business, security
       </p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="assets/redraven-logo.svg" alt="RedRaven" width="70" /></p>
-      <h3>RedRaven</h3>
+      <table width="100%">
+        <tr>
+          <td><h3>RedRaven</h3></td>
+          <td align="right"><img src="assets/redraven-logo.svg" alt="RedRaven" width="64" /></td>
+        </tr>
+      </table>
       <p>Red-team evaluation for AI systems before and after launch. RedRaven runs evaluations, scores model behavior, exports results, generates reports, and converts findings into stronger runtime controls.</p>
       <p>
         <a href="https://www.fireraven.ai/redraven">Product</a> ·
